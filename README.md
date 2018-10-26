@@ -13,6 +13,12 @@
 
 《网络是怎样连接的_户根勤》：https://pan.baidu.com/s/1d4LO6BTfDKTB90NcTMjUCg
 
+《Docker-从入门到实践》：https://pan.baidu.com/s/1_KUfsXSMWaVIzqJnE7SC8w
+
+《深入理解Java虚拟机》：https://pan.baidu.com/s/1K3NGt6FbbsypfTNq1AaeuA
+
+《spring揭秘》：https://pan.baidu.com/s/1MIMmaQDl5jkGLLPL5Bkc2Q
+
 《机器学习-周志华》：https://pan.baidu.com/s/1C6kzabSWnygZxg3zLYimdw
 
 《learning from data》：https://pan.baidu.com/s/1OWj0rwLdfdn9fel_TTaRgA
